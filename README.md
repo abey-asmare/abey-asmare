@@ -3,8 +3,8 @@
 
 Welcome to my GitHub page! I'm a passionate Django stack developer with a love for creating seamless web and mobile experiences. My journey into coding started way back in the 7th grade, and since then, I've dived deep into various programming languages and technologies.
 
-<h43>What I Do</h34>
-Full-Stack Development: I specialize in building robust applications using Django for the backend and React for the frontend.
+<h3>What I Do</h3>
+<span font-weight='bold'>Full-Stack Development</span>: I specialize in building robust applications using Django for the backend and React for the frontend.
 Programming Languages: I'm proficient in C#, Java, C++, Python, and JavaScript.
 Web & Mobile Design: Crafting intuitive and visually appealing designs is one of my strengths.
 Data Science & Machine Learning: I have a solid background in data analysis and machine learning, leveraging data to drive insights and innovation.
