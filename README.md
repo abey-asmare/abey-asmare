@@ -18,10 +18,6 @@ Bot Development: Creating and managing Telegram bots for various purposes.
 Let's Connect!
 I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to check out my repositories and connect with me. Let's build something amazing 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abey-asmare&label=Profile%20views&color=0e75b6&style=flat" alt="abey-asmare" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abey-asmare" alt="abey-asmare" /></a> </p>
-
 - 📫 How to reach me **abeyasmare07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
