@@ -33,7 +33,7 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abeyasmare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abeyasmare/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abeyasmare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abeyasmare/" height="30" width="40" /></a>
 <a href="https://instagram.com/avi_abey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avi_abey" height="30" width="40" /></a>
 <a href="https://dribbble.com/avi_abey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="avi_abey" height="30" width="40" /></a>
 </p>
